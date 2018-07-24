@@ -1,0 +1,995 @@
+Aatrox - default
+Aatrox - Justicar Aatrox
+Aatrox - Mecha Aatrox
+Aatrox - Sea Hunter Aatrox
+Ahri - default
+Ahri - Dynasty Ahri
+Ahri - Midnight Ahri
+Ahri - Foxfire Ahri
+Ahri - Popstar Ahri
+Ahri - Challenger Ahri
+Ahri - Academy Ahri
+Ahri - Arcade Ahri
+Ahri - Star Guardian Ahri
+Akali - default
+Akali - Stinger Akali
+Akali - Crimson Akali
+Akali - All-star Akali
+Akali - Nurse Akali
+Akali - Blood Moon Akali
+Akali - Silverfang Akali
+Akali - Headhunter Akali
+Akali - Sashimi Akali
+Alistar - default
+Alistar - Black Alistar
+Alistar - Golden Alistar
+Alistar - Matador Alistar
+Alistar - Longhorn Alistar
+Alistar - Unchained Alistar
+Alistar - Infernal Alistar
+Alistar - Sweeper Alistar
+Alistar - Marauder Alistar
+Alistar - SKT T1 Alistar
+Alistar - Moo Cow Alistar
+Alistar - Hextech Alistar
+Amumu - default
+Amumu - Pharaoh Amumu
+Amumu - Vancouver Amumu
+Amumu - Emumu
+Amumu - Re-Gifted Amumu
+Amumu - Almost-Prom King Amumu
+Amumu - Little Knight Amumu
+Amumu - Sad Robot Amumu
+Amumu - Surprise Party Amumu
+Anivia - default
+Anivia - Team Spirit Anivia
+Anivia - Bird of Prey Anivia
+Anivia - Noxus Hunter Anivia
+Anivia - Hextech Anivia
+Anivia - Blackfrost Anivia
+Anivia - Prehistoric Anivia
+Anivia - Festival Queen Anivia
+Annie - default
+Annie - Goth Annie
+Annie - Red Riding Annie
+Annie - Annie in Wonderland
+Annie - Prom Queen Annie
+Annie - Frostfire Annie
+Annie - Reverse Annie
+Annie - FrankenTibbers Annie
+Annie - Panda Annie
+Annie - Sweetheart Annie
+Annie - Hextech Annie
+Annie - Super Galaxy Annie
+Ashe - default
+Ashe - Freljord Ashe
+Ashe - Sherwood Forest Ashe
+Ashe - Woad Ashe
+Ashe - Queen Ashe
+Ashe - Amethyst Ashe
+Ashe - Heartseeker Ashe
+Ashe - Marauder Ashe
+Ashe - PROJECT: Ashe
+Ashe - Championship Ashe
+Aurelion Sol - default
+Aurelion Sol - Ashen Lord Aurelion Sol
+Azir - default
+Azir - Galactic Azir
+Azir - Gravelord Azir
+Azir - SKT T1 Azir
+Azir - Warring Kingdoms Azir
+Bard - default
+Bard - Elderwood Bard
+Bard - Snow Day Bard
+Bard - Bard Bard
+Blitzcrank - default
+Blitzcrank - Rusty Blitzcrank
+Blitzcrank - Goalkeeper Blitzcrank
+Blitzcrank - Boom Boom Blitzcrank
+Blitzcrank - Piltover Customs Blitzcrank
+Blitzcrank - Definitely Not Blitzcrank
+Blitzcrank - iBlitzcrank
+Blitzcrank - Riot Blitzcrank
+Blitzcrank - Battle Boss Blitzcrank
+Blitzcrank - Lancer Rogue Blitzcrank
+Blitzcrank - Lancer Paragon Blitzcrank
+Brand - default
+Brand - Apocalyptic Brand
+Brand - Vandal Brand
+Brand - Cryocore Brand
+Brand - Zombie Brand
+Brand - Spirit Fire Brand
+Brand - Battle Boss Brand
+Braum - default
+Braum - Dragonslayer Braum
+Braum - El Tigre Braum
+Braum - Braum Lionheart
+Braum - Santa Braum
+Caitlyn - default
+Caitlyn - Resistance Caitlyn
+Caitlyn - Sheriff Caitlyn
+Caitlyn - Safari Caitlyn
+Caitlyn - Arctic Warfare Caitlyn
+Caitlyn - Officer Caitlyn
+Caitlyn - Headhunter Caitlyn
+Caitlyn - Lunar Wraith Caitlyn
+Caitlyn - Pulsefire Caitlyn
+Camille - default
+Camille - Program Camille
+Cassiopeia - default
+Cassiopeia - Desperada Cassiopeia
+Cassiopeia - Siren Cassiopeia
+Cassiopeia - Mythic Cassiopeia
+Cassiopeia - Jade Fang Cassiopeia
+Cassiopeia - Eternum Cassiopeia
+Cho'Gath - default
+Cho'Gath - Nightmare Cho'Gath
+Cho'Gath - Gentleman Cho'Gath
+Cho'Gath - Loch Ness Cho'Gath
+Cho'Gath - Jurassic Cho'Gath
+Cho'Gath - Battlecast Prime Cho'Gath
+Cho'Gath - Prehistoric Cho'Gath
+Cho'Gath - Dark Star Cho'Gath
+Corki - default
+Corki - UFO Corki
+Corki - Ice Toboggan Corki
+Corki - Red Baron Corki
+Corki - Hot Rod Corki
+Corki - Urfrider Corki
+Corki - Dragonwing Corki
+Corki - Fnatic Corki
+Corki - Arcade Corki
+Darius - default
+Darius - Lord Darius
+Darius - Bioforge Darius
+Darius - Woad King Darius
+Darius - Dunkmaster Darius
+Darius - Academy Darius
+Darius - Dreadnova Darius
+Darius - God-King Darius
+Diana - default
+Diana - Dark Valkyrie Diana
+Diana - Lunar Goddess Diana
+Diana - Infernal Diana
+Diana - Blood Moon Diana
+Diana - Dark Waters Diana
+Draven - default
+Draven - Soul Reaver Draven
+Draven - Gladiator Draven
+Draven - Primetime Draven
+Draven - Pool Party Draven
+Draven - Beast Hunter Draven
+Draven - Draven Draven
+Draven - Santa Draven
+Dr. Mundo - default
+Dr. Mundo - Toxic Dr. Mundo
+Dr. Mundo - Mr. Mundoverse
+Dr. Mundo - Corporate Mundo
+Dr. Mundo - Mundo Mundo
+Dr. Mundo - Executioner Mundo
+Dr. Mundo - Rageborn Mundo
+Dr. Mundo - TPA Mundo
+Dr. Mundo - Pool Party Mundo
+Dr. Mundo - El Macho Mundo
+Ekko - default
+Ekko - Sandstorm Ekko
+Ekko - Academy Ekko
+Ekko - PROJECT: Ekko
+Ekko - SKT T1 Ekko
+Elise - default
+Elise - Death Blossom Elise
+Elise - Victorious Elise
+Elise - Blood Moon Elise
+Elise - SKT T1 Elise
+Elise - Super Galaxy Elise
+Evelynn - default
+Evelynn - Shadow Evelynn
+Evelynn - Masquerade Evelynn
+Evelynn - Tango Evelynn
+Evelynn - Safecracker Evelynn
+Evelynn - Blood Moon Evelynn
+Ezreal - default
+Ezreal - Nottingham Ezreal
+Ezreal - Striker Ezreal
+Ezreal - Frosted Ezreal
+Ezreal - Explorer Ezreal
+Ezreal - Pulsefire Ezreal
+Ezreal - TPA Ezreal
+Ezreal - Debonair Ezreal
+Ezreal - Ace of Spades Ezreal
+Ezreal - Arcade Ezreal
+Ezreal - Star Guardian Ezreal
+Ezreal - SSG Ezreal
+Fiddlesticks - default
+Fiddlesticks - Spectral Fiddlesticks
+Fiddlesticks - Union Jack Fiddlesticks
+Fiddlesticks - Bandito Fiddlesticks
+Fiddlesticks - Pumpkinhead Fiddlesticks
+Fiddlesticks - Fiddle Me Timbers
+Fiddlesticks - Surprise Party Fiddlesticks
+Fiddlesticks - Dark Candy Fiddlesticks
+Fiddlesticks - Risen Fiddlesticks
+Fiora - default
+Fiora - Royal Guard Fiora
+Fiora - Nightraven Fiora
+Fiora - Headmistress Fiora
+Fiora - PROJECT: Fiora
+Fiora - Pool Party Fiora
+Fiora - Soaring Sword Fiora
+Fizz - default
+Fizz - Atlantean Fizz
+Fizz - Tundra Fizz
+Fizz - Fisherman Fizz
+Fizz - Void Fizz
+Fizz - Cottontail Fizz
+Fizz - Super Galaxy Fizz
+Fizz - Omega Squad Fizz
+Galio - default
+Galio - Enchanted Galio
+Galio - Hextech Galio
+Galio - Commando Galio
+Galio - Gatekeeper Galio
+Galio - Debonair Galio
+Galio - Birdio
+Gangplank - default
+Gangplank - Spooky Gangplank
+Gangplank - Minuteman Gangplank
+Gangplank - Sailor Gangplank
+Gangplank - Toy Soldier Gangplank
+Gangplank - Special Forces Gangplank
+Gangplank - Sultan Gangplank
+Gangplank - Captain Gangplank
+Gangplank - Dreadnova Gangplank
+Garen - default
+Garen - Sanguine Garen
+Garen - Desert Trooper Garen
+Garen - Commando Garen
+Garen - Dreadknight Garen
+Garen - Rugged Garen
+Garen - Steel Legion Garen
+Garen - Rogue Admiral Garen
+Garen - Warring Kingdoms Garen
+Garen - God-King Garen
+Gnar - default
+Gnar - Dino Gnar
+Gnar - Gentleman Gnar
+Gnar - Snow Day Gnar
+Gnar - El León Gnar
+Gnar - Super Galaxy Gnar
+Gnar - SSG Gnar
+Gragas - default
+Gragas - Scuba Gragas
+Gragas - Hillbilly Gragas
+Gragas - Santa Gragas
+Gragas - Gragas, Esq.
+Gragas - Vandal Gragas
+Gragas - Oktoberfest Gragas
+Gragas - Superfan Gragas
+Gragas - Fnatic Gragas
+Gragas - Gragas Caskbreaker
+Gragas - Arctic Ops Gragas
+Graves - default
+Graves - Hired Gun Graves
+Graves - Jailbreak Graves
+Graves - Mafia Graves
+Graves - Riot Graves
+Graves - Pool Party Graves
+Graves - Cutthroat Graves
+Graves - Snow Day Graves
+Graves - Victorious Graves
+Hecarim - default
+Hecarim - Blood Knight Hecarim
+Hecarim - Reaper Hecarim
+Hecarim - Headless Hecarim
+Hecarim - Arcade Hecarim
+Hecarim - Elderwood Hecarim
+Hecarim - Worldbreaker Hecarim
+Hecarim - Lancer Zero Hecarim
+Heimerdinger - default
+Heimerdinger - Alien Invader Heimerdinger
+Heimerdinger - Blast Zone Heimerdinger
+Heimerdinger - Piltover Customs Heimerdinger
+Heimerdinger - Snowmerdinger
+Heimerdinger - Hazmat Heimerdinger
+Illaoi - default
+Illaoi - Void Bringer Illaoi
+Illaoi - Resistance Illaoi
+Irelia - default
+Irelia - Nightblade Irelia
+Irelia - Aviator Irelia
+Irelia - Infiltrator Irelia
+Irelia - Frostblade Irelia
+Irelia - Order of the Lotus Irelia
+Ivern - default
+Ivern - Candy King Ivern
+Janna - default
+Janna - Tempest Janna
+Janna - Hextech Janna
+Janna - Frost Queen Janna
+Janna - Victorious Janna
+Janna - Forecast Janna
+Janna - Fnatic Janna
+Janna - Star Guardian Janna
+Janna - Sacred Sword Janna
+Jarvan IV - default
+Jarvan IV - Commando Jarvan IV
+Jarvan IV - Dragonslayer Jarvan IV
+Jarvan IV - Darkforge Jarvan IV
+Jarvan IV - Victorious Jarvan IV
+Jarvan IV - Warring Kingdoms Jarvan IV
+Jarvan IV - Fnatic Jarvan IV
+Jarvan IV - Dark Star Jarvan IV
+Jarvan IV - SSG Jarvan IV
+Jax - default
+Jax - The Mighty Jax
+Jax - Vandal Jax
+Jax - Angler Jax
+Jax - PAX Jax
+Jax - Jaximus
+Jax - Temple Jax
+Jax - Nemesis Jax
+Jax - SKT T1 Jax
+Jax - Warden Jax
+Jax - God Staff Jax
+Jayce - default
+Jayce - Full Metal Jayce
+Jayce - Debonair Jayce
+Jayce - Forsaken Jayce
+Jayce - Jayce Brighthammer
+Jhin - default
+Jhin - High Noon Jhin
+Jhin - Blood Moon Jhin
+Jhin - SKT T1 Jhin
+Jhin - PROJECT: Jhin
+Jinx - default
+Jinx - Mafia Jinx
+Jinx - Firecracker Jinx
+Jinx - Slayer Jinx
+Jinx - Star Guardian Jinx
+Jinx - Ambitious Elf Jinx
+Kai'Sa - default
+Kai'Sa - Bullet Angel Kai'Sa
+Kalista - default
+Kalista - Blood Moon Kalista
+Kalista - Championship Kalista
+Kalista - SKT T1 Kalista
+Karma - default
+Karma - Sun Goddess Karma
+Karma - Sakura Karma
+Karma - Traditional Karma
+Karma - Order of the Lotus Karma
+Karma - Warden Karma
+Karma - Winter Wonder Karma
+Karma - Conqueror Karma
+Karthus - default
+Karthus - Phantom Karthus
+Karthus - Statue of Karthus
+Karthus - Grim Reaper Karthus
+Karthus - Pentakill Karthus
+Karthus - Fnatic Karthus
+Karthus - Karthus Lightsbane
+Kassadin - default
+Kassadin - Festival Kassadin
+Kassadin - Deep One Kassadin
+Kassadin - Pre-Void Kassadin
+Kassadin - Harbinger Kassadin
+Kassadin - Cosmic Reaver Kassadin
+Katarina - default
+Katarina - Mercenary Katarina
+Katarina - Red Card Katarina
+Katarina - Bilgewater Katarina
+Katarina - Kitty Cat Katarina
+Katarina - High Command Katarina
+Katarina - Sandstorm Katarina
+Katarina - Slay Belle Katarina
+Katarina - Warring Kingdoms Katarina
+Katarina - PROJECT: Katarina
+Katarina - Death Sworn Katarina
+Kayle - default
+Kayle - Silver Kayle
+Kayle - Viridian Kayle
+Kayle - Unmasked Kayle
+Kayle - Battleborn Kayle
+Kayle - Judgment Kayle
+Kayle - Aether Wing Kayle
+Kayle - Riot Kayle
+Kayle - Iron Inquisitor Kayle
+Kayle - Pentakill Kayle
+Kayn - default
+Kayn - Soulhunter Kayn
+Kennen - default
+Kennen - Deadly Kennen
+Kennen - Swamp Master Kennen
+Kennen - Karate Kennen
+Kennen - Kennen M.D.
+Kennen - Arctic Ops Kennen
+Kennen - Blood Moon Kennen
+Kennen - Super Kennen
+Kha'Zix - default
+Kha'Zix - Mecha Kha'Zix
+Kha'Zix - Guardian of the Sands Kha'Zix
+Kha'Zix - Death Blossom Kha'Zix
+Kha'Zix - Dark Star Kha'Zix
+Kindred - default
+Kindred - Shadowfire Kindred
+Kindred - Super Galaxy Kindred
+Kled - default
+Kled - Sir Kled
+Kog'Maw - default
+Kog'Maw - Caterpillar Kog'Maw
+Kog'Maw - Sonoran Kog'Maw
+Kog'Maw - Monarch Kog'Maw
+Kog'Maw - Reindeer Kog'Maw
+Kog'Maw - Lion Dance Kog'Maw
+Kog'Maw - Deep Sea Kog'Maw
+Kog'Maw - Jurassic Kog'Maw
+Kog'Maw - Battlecast Kog'Maw
+Kog'Maw - Pug'Maw
+Kog'Maw - Hextech Kog'Maw
+LeBlanc - default
+LeBlanc - Wicked LeBlanc
+LeBlanc - Prestigious LeBlanc
+LeBlanc - Mistletoe LeBlanc
+LeBlanc - Ravenborn LeBlanc
+LeBlanc - Elderwood LeBlanc
+Lee Sin - default
+Lee Sin - Traditional Lee Sin
+Lee Sin - Acolyte Lee Sin
+Lee Sin - Dragon Fist Lee Sin
+Lee Sin - Muay Thai Lee Sin
+Lee Sin - Pool Party Lee Sin
+Lee Sin - SKT T1 Lee Sin
+Lee Sin - Knockout Lee Sin
+Lee Sin - God Fist Lee Sin
+Lee Sin - Playmaker Lee Sin
+Leona - default
+Leona - Valkyrie Leona
+Leona - Defender Leona
+Leona - Iron Solari Leona
+Leona - Pool Party Leona
+Leona - PROJECT: Leona
+Leona - Barbecue Leona
+Lissandra - default
+Lissandra - Bloodstone Lissandra
+Lissandra - Blade Queen Lissandra
+Lissandra - Program Lissandra
+Lucian - default
+Lucian - Hired Gun Lucian
+Lucian - Striker Lucian
+Lucian - PROJECT: Lucian
+Lucian - Heartseeker Lucian
+Lulu - default
+Lulu - Bittersweet Lulu
+Lulu - Wicked Lulu
+Lulu - Dragon Trainer Lulu
+Lulu - Winter Wonder Lulu
+Lulu - Pool Party Lulu
+Lulu - Star Guardian Lulu
+Lux - default
+Lux - Sorceress Lux
+Lux - Spellthief Lux
+Lux - Commando Lux
+Lux - Imperial Lux
+Lux - Steel Legion Lux
+Lux - Star Guardian Lux
+Lux - Elementalist Lux
+Lux - Lunar Empress Lux
+Malphite - default
+Malphite - Shamrock Malphite
+Malphite - Coral Reef Malphite
+Malphite - Marble Malphite
+Malphite - Obsidian Malphite
+Malphite - Glacial Malphite
+Malphite - Mecha Malphite
+Malphite - Ironside Malphite
+Malzahar - default
+Malzahar - Vizier Malzahar
+Malzahar - Shadow Prince Malzahar
+Malzahar - Djinn Malzahar
+Malzahar - Overlord Malzahar
+Malzahar - Snow Day Malzahar
+Malzahar - Battle Boss Malzahar
+Maokai - default
+Maokai - Charred Maokai
+Maokai - Totemic Maokai
+Maokai - Festive Maokai
+Maokai - Haunted Maokai
+Maokai - Goalkeeper Maokai
+Maokai - Meowkai
+Maokai - Victorious Maokai
+Master Yi - default
+Master Yi - Assassin Master Yi
+Master Yi - Chosen Master Yi
+Master Yi - Ionia Master Yi
+Master Yi - Samurai Yi
+Master Yi - Headhunter Master Yi
+Master Yi - PROJECT: Yi
+Master Yi - Cosmic Blade Master Yi
+Master Yi - Eternal Sword Yi
+Miss Fortune - default
+Miss Fortune - Cowgirl Miss Fortune
+Miss Fortune - Waterloo Miss Fortune
+Miss Fortune - Secret Agent Miss Fortune
+Miss Fortune - Candy Cane Miss Fortune
+Miss Fortune - Road Warrior Miss Fortune
+Miss Fortune - Mafia Miss Fortune
+Miss Fortune - Arcade Miss Fortune
+Miss Fortune - Captain Fortune
+Miss Fortune - Pool Party Miss Fortune
+Miss Fortune - Star Guardian Miss Fortune
+Miss Fortune - Gun Goddess Miss Fortune
+Wukong - default
+Wukong - Volcanic Wukong
+Wukong - General Wukong
+Wukong - Jade Dragon Wukong
+Wukong - Underworld Wukong
+Wukong - Radiant Wukong
+Wukong - Lancer Stratus Wukong
+Mordekaiser - default
+Mordekaiser - Dragon Knight Mordekaiser
+Mordekaiser - Infernal Mordekaiser
+Mordekaiser - Pentakill Mordekaiser
+Mordekaiser - Lord Mordekaiser
+Mordekaiser - King of Clubs Mordekaiser
+Morgana - default
+Morgana - Exiled Morgana
+Morgana - Sinful Succulence Morgana
+Morgana - Blade Mistress Morgana
+Morgana - Blackthorn Morgana
+Morgana - Ghost Bride Morgana
+Morgana - Victorious Morgana
+Morgana - Lunar Wraith Morgana
+Morgana - Bewitching Morgana
+Nami - default
+Nami - Koi Nami
+Nami - River Spirit Nami
+Nami - Urf the Nami-tee
+Nami - Deep Sea Nami
+Nami - SKT T1 Nami
+Nasus - default
+Nasus - Galactic Nasus
+Nasus - Pharaoh Nasus
+Nasus - Dreadknight Nasus
+Nasus - Riot K-9 Nasus
+Nasus - Infernal Nasus
+Nasus - Archduke Nasus
+Nasus - Worldbreaker Nasus
+Nasus - Lunar Guardian Nasus
+Nautilus - default
+Nautilus - Abyssal Nautilus
+Nautilus - Subterranean Nautilus
+Nautilus - AstroNautilus
+Nautilus - Warden Nautilus
+Nautilus - Worldbreaker Nautilus
+Nidalee - default
+Nidalee - Snow Bunny Nidalee
+Nidalee - Leopard Nidalee
+Nidalee - French Maid Nidalee
+Nidalee - Pharaoh Nidalee
+Nidalee - Bewitching Nidalee
+Nidalee - Headhunter Nidalee
+Nidalee - Warring Kingdoms Nidalee
+Nidalee - Challenger Nidalee
+Nidalee - Super Galaxy Nidalee
+Nocturne - default
+Nocturne - Frozen Terror Nocturne
+Nocturne - Void Nocturne
+Nocturne - Ravager Nocturne
+Nocturne - Haunting Nocturne
+Nocturne - Eternum Nocturne
+Nocturne - Cursed Revenant Nocturne
+Nunu - default
+Nunu - Sasquatch Nunu
+Nunu - Workshop Nunu
+Nunu - Grungy Nunu
+Nunu - Nunu Bot
+Nunu - Demolisher Nunu
+Nunu - TPA Nunu
+Nunu - Zombie Nunu
+Olaf - default
+Olaf - Forsaken Olaf
+Olaf - Glacial Olaf
+Olaf - Brolaf
+Olaf - Pentakill Olaf
+Olaf - Marauder Olaf
+Olaf - Butcher Olaf
+Olaf - SKT T1 Olaf
+Orianna - default
+Orianna - Gothic Orianna
+Orianna - Sewn Chaos Orianna
+Orianna - Bladecraft Orianna
+Orianna - TPA Orianna
+Orianna - Winter Wonder Orianna
+Orianna - Heartseeker Orianna
+Orianna - Dark Star Orianna
+Ornn - default
+Ornn - Thunder Lord Ornn
+Pantheon - default
+Pantheon - Myrmidon Pantheon
+Pantheon - Ruthless Pantheon
+Pantheon - Perseus Pantheon
+Pantheon - Full Metal Pantheon
+Pantheon - Glaive Warrior Pantheon
+Pantheon - Dragonslayer Pantheon
+Pantheon - Slayer Pantheon
+Pantheon - Baker Pantheon
+Poppy - default
+Poppy - Noxus Poppy
+Poppy - Lollipoppy
+Poppy - Blacksmith Poppy
+Poppy - Ragdoll Poppy
+Poppy - Battle Regalia Poppy
+Poppy - Scarlet Hammer Poppy
+Poppy - Star Guardian Poppy
+Poppy - Snow Fawn Poppy
+Poppy - Hextech Poppy
+Pyke - default
+Pyke - Sand Wraith Pyke
+Quinn - default
+Quinn - Phoenix Quinn
+Quinn - Woad Scout Quinn
+Quinn - Corsair Quinn
+Quinn - Heartseeker Quinn
+Rakan - default
+Rakan - Cosmic Dawn Rakan
+Rakan - Sweetheart Rakan
+Rakan - SSG Rakan
+Rammus - default
+Rammus - King Rammus
+Rammus - Chrome Rammus
+Rammus - Molten Rammus
+Rammus - Freljord Rammus
+Rammus - Ninja Rammus
+Rammus - Full Metal Rammus
+Rammus - Guardian of the Sands Rammus
+Rammus - Sweeper Rammus
+Rek'Sai - default
+Rek'Sai - Eternum Rek'Sai
+Rek'Sai - Pool Party Rek'Sai
+Renekton - default
+Renekton - Galactic Renekton
+Renekton - Outback Renekton
+Renekton - Bloodfury Renekton
+Renekton - Rune Wars Renekton
+Renekton - Scorched Earth Renekton
+Renekton - Pool Party Renekton
+Renekton - Prehistoric Renekton
+Renekton - SKT T1 Renekton
+Renekton - Renektoy
+Rengar - default
+Rengar - Headhunter Rengar
+Rengar - Night Hunter Rengar
+Rengar - SSW Rengar
+Rengar - Mecha Rengar
+Riven - default
+Riven - Redeemed Riven
+Riven - Crimson Elite Riven
+Riven - Battle Bunny Riven
+Riven - Championship Riven
+Riven - Dragonblade Riven
+Riven - Arcade Riven
+Riven - Championship Riven 2016
+Riven - Dawnbringer Riven
+Riven - Pulsefire Riven
+Rumble - default
+Rumble - Rumble in the Jungle
+Rumble - Bilgerat Rumble
+Rumble - Super Galaxy Rumble
+Rumble - Badlands Baron Rumble
+Ryze - default
+Ryze - Young Ryze
+Ryze - Tribal Ryze
+Ryze - Uncle Ryze
+Ryze - Triumphant Ryze
+Ryze - Professor Ryze
+Ryze - Zombie Ryze
+Ryze - Dark Crystal Ryze
+Ryze - Pirate Ryze
+Ryze - Ryze Whitebeard
+Ryze - SKT T1 Ryze
+Sejuani - default
+Sejuani - Sabretusk Sejuani
+Sejuani - Darkrider Sejuani
+Sejuani - Traditional Sejuani
+Sejuani - Bear Cavalry Sejuani
+Sejuani - Poro Rider Sejuani
+Sejuani - Beast Hunter Sejuani
+Sejuani - Sejuani Dawnchaser
+Shaco - default
+Shaco - Mad Hatter Shaco
+Shaco - Royal Shaco
+Shaco - Nutcracko
+Shaco - Workshop Shaco
+Shaco - Asylum Shaco
+Shaco - Masked Shaco
+Shaco - Wild Card Shaco
+Shen - default
+Shen - Frozen Shen
+Shen - Yellow Jacket Shen
+Shen - Surgeon Shen
+Shen - Blood Moon Shen
+Shen - Warlord Shen
+Shen - TPA Shen
+Shen - Pulsefire Shen
+Shyvana - default
+Shyvana - Ironscale Shyvana
+Shyvana - Boneclaw Shyvana
+Shyvana - Darkflame Shyvana
+Shyvana - Ice Drake Shyvana
+Shyvana - Championship Shyvana
+Shyvana - Super Galaxy Shyvana
+Singed - default
+Singed - Riot Squad Singed
+Singed - Hextech Singed
+Singed - Surfer Singed
+Singed - Mad Scientist Singed
+Singed - Augmented Singed
+Singed - Snow Day Singed
+Singed - SSW Singed
+Singed - Black Scourge Singed
+Singed - Beekeeper Singed
+Sion - default
+Sion - Hextech Sion
+Sion - Barbarian Sion
+Sion - Lumberjack Sion
+Sion - Warmonger Sion
+Sion - Mecha Zero Sion
+Sivir - default
+Sivir - Warrior Princess Sivir
+Sivir - Spectacular Sivir
+Sivir - Huntress Sivir
+Sivir - Bandit Sivir
+Sivir - PAX Sivir
+Sivir - Snowstorm Sivir
+Sivir - Warden Sivir
+Sivir - Victorious Sivir
+Sivir - Neo PAX Sivir
+Sivir - Pizza Delivery Sivir
+Skarner - default
+Skarner - Sandscourge Skarner
+Skarner - Earthrune Skarner
+Skarner - Battlecast Alpha Skarner
+Skarner - Guardian of the Sands Skarner
+Sona - default
+Sona - Muse Sona
+Sona - Pentakill Sona
+Sona - Silent Night Sona
+Sona - Guqin Sona
+Sona - Arcade Sona
+Sona - DJ Sona
+Sona - Sweetheart Sona
+Soraka - default
+Soraka - Dryad Soraka
+Soraka - Divine Soraka
+Soraka - Celestine Soraka
+Soraka - Reaper Soraka
+Soraka - Order of the Banana Soraka
+Soraka - Program Soraka
+Soraka - Star Guardian Soraka
+Swain - default
+Swain - Northern Front Swain
+Swain - Bilgewater Swain
+Swain - Tyrant Swain
+Swain - Dragon Master Swain
+Syndra - default
+Syndra - Justicar Syndra
+Syndra - Atlantean Syndra
+Syndra - Queen of Diamonds Syndra
+Syndra - Snow Day Syndra
+Syndra - SKT T1 Syndra
+Syndra - Star Guardian Syndra
+Tahm Kench - default
+Tahm Kench - Master Chef Tahm Kench
+Tahm Kench - Urf Kench
+Taliyah - default
+Taliyah - Freljord Taliyah
+Taliyah - SSG Taliyah
+Talon - default
+Talon - Renegade Talon
+Talon - Crimson Elite Talon
+Talon - Dragonblade Talon
+Talon - SSW Talon
+Talon - Blood Moon Talon
+Taric - default
+Taric - Emerald Taric
+Taric - Armor of the Fifth Age Taric
+Taric - Bloodstone Taric
+Taric - Pool Party Taric
+Teemo - default
+Teemo - Happy Elf Teemo
+Teemo - Recon Teemo
+Teemo - Badger Teemo
+Teemo - Astronaut Teemo
+Teemo - Cottontail Teemo
+Teemo - Super Teemo
+Teemo - Panda Teemo
+Teemo - Omega Squad Teemo
+Teemo - Little Devil Teemo
+Teemo - Beemo
+Thresh - default
+Thresh - Deep Terror Thresh
+Thresh - Championship Thresh
+Thresh - Blood Moon Thresh
+Thresh - SSW Thresh
+Thresh - Dark Star Thresh
+Tristana - default
+Tristana - Riot Girl Tristana
+Tristana - Earnest Elf Tristana
+Tristana - Firefighter Tristana
+Tristana - Guerilla Tristana
+Tristana - Buccaneer Tristana
+Tristana - Rocket Girl Tristana
+Tristana - Dragon Trainer Tristana
+Tristana - Bewitching Tristana
+Tristana - Omega Squad Tristana
+Trundle - default
+Trundle - Lil' Slugger Trundle
+Trundle - Junkyard Trundle
+Trundle - Traditional Trundle
+Trundle - Constable Trundle
+Trundle - Worldbreaker Trundle
+Tryndamere - default
+Tryndamere - Highland Tryndamere
+Tryndamere - King Tryndamere
+Tryndamere - Viking Tryndamere
+Tryndamere - Demonblade Tryndamere
+Tryndamere - Sultan Tryndamere
+Tryndamere - Warring Kingdoms Tryndamere
+Tryndamere - Nightmare Tryndamere
+Tryndamere - Beast Hunter Tryndamere
+Tryndamere - Chemtech Tryndamere
+Twisted Fate - default
+Twisted Fate - PAX Twisted Fate
+Twisted Fate - Jack of Hearts Twisted Fate
+Twisted Fate - The Magnificent Twisted Fate
+Twisted Fate - Tango Twisted Fate
+Twisted Fate - High Noon Twisted Fate
+Twisted Fate - Musketeer Twisted Fate
+Twisted Fate - Underworld Twisted Fate
+Twisted Fate - Red Card Twisted Fate
+Twisted Fate - Cutpurse Twisted Fate
+Twisted Fate - Blood Moon Twisted Fate
+Twisted Fate - Pulsefire Twisted Fate
+Twitch - default
+Twitch - Kingpin Twitch
+Twitch - Whistler Village Twitch
+Twitch - Medieval Twitch
+Twitch - Gangster Twitch
+Twitch - Vandal Twitch
+Twitch - Pickpocket Twitch
+Twitch - SSW Twitch
+Twitch - Omega Squad Twitch
+Udyr - default
+Udyr - Black Belt Udyr
+Udyr - Primal Udyr
+Udyr - Spirit Guard Udyr
+Udyr - Definitely Not Udyr
+Urgot - default
+Urgot - Giant Enemy Crabgot
+Urgot - Butcher Urgot
+Urgot - Battlecast Urgot
+Varus - default
+Varus - Blight Crystal Varus
+Varus - Arclight Varus
+Varus - Arctic Ops Varus
+Varus - Heartseeker Varus
+Varus - Varus Swiftbolt
+Varus - Dark Star Varus
+Varus - Conqueror Varus
+Vayne - default
+Vayne - Vindicator Vayne
+Vayne - Aristocrat Vayne
+Vayne - Dragonslayer Vayne
+Vayne - Heartseeker Vayne
+Vayne - SKT T1 Vayne
+Vayne - Arclight Vayne
+Vayne - Soulstealer Vayne
+Vayne - PROJECT: Vayne
+Veigar - default
+Veigar - White Mage Veigar
+Veigar - Curling Veigar
+Veigar - Veigar Greybeard
+Veigar - Leprechaun Veigar
+Veigar - Baron Von Veigar
+Veigar - Superb Villain Veigar
+Veigar - Bad Santa Veigar
+Veigar - Final Boss Veigar
+Veigar - Omega Squad Veigar
+Vel'Koz - default
+Vel'Koz - Battlecast Vel'Koz
+Vel'Koz - Arclight Vel'Koz
+Vel'Koz - Definitely Not Vel'Koz
+Vi - default
+Vi - Neon Strike Vi
+Vi - Officer Vi
+Vi - Debonair Vi
+Vi - Demon Vi
+Vi - Warring Kingdoms Vi
+Vi - PROJECT: Vi
+Viktor - default
+Viktor - Full Machine Viktor
+Viktor - Prototype Viktor
+Viktor - Creator Viktor
+Viktor - Death Sworn Viktor
+Vladimir - default
+Vladimir - Count Vladimir
+Vladimir - Marquis Vladimir
+Vladimir - Nosferatu Vladimir
+Vladimir - Vandal Vladimir
+Vladimir - Blood Lord Vladimir
+Vladimir - Soulstealer Vladimir
+Vladimir - Academy Vladimir
+Vladimir - Dark Waters Vladimir
+Volibear - default
+Volibear - Thunder Lord Volibear
+Volibear - Northern Storm Volibear
+Volibear - Runeguard Volibear
+Volibear - Captain Volibear
+Volibear - El Rayo Volibear
+Warwick - default
+Warwick - Grey Warwick
+Warwick - Urf the Manatee
+Warwick - Big Bad Warwick
+Warwick - Tundra Hunter Warwick
+Warwick - Feral Warwick
+Warwick - Firefang Warwick
+Warwick - Hyena Warwick
+Warwick - Marauder Warwick
+Warwick - Urfwick
+Warwick - Lunar Guardian Warwick
+Xayah - default
+Xayah - Cosmic Dusk Xayah
+Xayah - Sweetheart Xayah
+Xayah - SSG Xayah
+Xerath - default
+Xerath - Runeborn Xerath
+Xerath - Battlecast Xerath
+Xerath - Scorched Earth Xerath
+Xerath - Guardian of the Sands Xerath
+Xin Zhao - default
+Xin Zhao - Commando Xin Zhao
+Xin Zhao - Imperial Xin Zhao
+Xin Zhao - Viscero Xin Zhao
+Xin Zhao - Winged Hussar Xin Zhao
+Xin Zhao - Warring Kingdoms Xin Zhao
+Xin Zhao - Secret Agent Xin Zhao
+Xin Zhao - Dragonslayer Xin Zhao
+Yasuo - default
+Yasuo - High Noon Yasuo
+Yasuo - PROJECT: Yasuo
+Yasuo - Blood Moon Yasuo
+Yasuo - Nightbringer Yasuo
+Yorick - default
+Yorick - Undertaker Yorick
+Yorick - Pentakill Yorick
+Yorick - Arclight Yorick
+Zac - default
+Zac - Special Weapon Zac
+Zac - Pool Party Zac
+Zac - SKT T1 Zac
+Zed - default
+Zed - Shockblade Zed
+Zed - SKT T1 Zed
+Zed - PROJECT: Zed
+Zed - Championship Zed
+Zed - Death Sworn Zed
+Ziggs - default
+Ziggs - Mad Scientist Ziggs
+Ziggs - Major Ziggs
+Ziggs - Pool Party Ziggs
+Ziggs - Snow Day Ziggs
+Ziggs - Master Arcanist Ziggs
+Ziggs - Battle Boss Ziggs
+Zilean - default
+Zilean - Old Saint Zilean
+Zilean - Groovy Zilean
+Zilean - Shurima Desert Zilean
+Zilean - Time Machine Zilean
+Zilean - Blood Moon Zilean
+Zoe - default
+Zoe - Cyber Pop Zoe
+Zyra - default
+Zyra - Wildfire Zyra
+Zyra - Haunted Zyra
+Zyra - SKT T1 Zyra
+Zyra - Dragon Sorceress Zyra
